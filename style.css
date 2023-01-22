@@ -1,0 +1,26 @@
+/* Set the primary font for the website */
+body {
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  /* Set the secondary font for headings and titles */
+  h1, h2, h3, h4, h5, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* Set the primary color for the website */
+  header, footer, .highlight-button {
+    background-color: #0B3D91;
+    color: white;
+  }
+  
+  /* Set the secondary color for the background */
+  body {
+    background-color: #D8D8D8;
+  }
+  
+  /* Set the tertiary color for highlights */
+  .highlight-button {
+    border: 2px solid #FFA600;
+  }
+  
